@@ -2,11 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>testGitFlowMavenRelease</groupId>
 	<artifactId>TestGitFlowMavenRelease</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<scm>
 		<connection>scm:git:https://github.com/muralip543/GitFlowMavenRelease</connection>
 
-	  <tag>HEAD</tag>
+	  <tag>v0.0.2</tag>
   </scm>
 
 	<build>
